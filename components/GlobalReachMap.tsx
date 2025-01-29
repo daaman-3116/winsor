@@ -121,7 +121,7 @@ export default function GlobalReachMap() {
           }}
         />
         <text x={companyLocation[0] + 10} y={companyLocation[1] - 10} className="fill-gray-700 text-sm font-medium">
-          Veraval, India
+          Winsor World Export, Veraval, India
         </text>
 
         {/* Export Routes and Destination Markers */}
